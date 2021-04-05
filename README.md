@@ -16,7 +16,9 @@
 ### 레이아웃 디자인
 
 #### 회원가입/로그인
-![KakaoTalk_20210406_021613747](https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png)
+<p align="center">
+  <img width="382" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
+</p>
 
 #### 게시판
 <p align="center">
