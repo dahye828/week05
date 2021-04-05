@@ -38,7 +38,6 @@
   <img width="250" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113606167-997db780-9682-11eb-950a-f501f944b49c.png"></p>
 
 #### 셔틀버스
-
 <p align="center">
   <img width="250" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113607511-3e4cc480-9684-11eb-8a5d-036cf31eac6c.PNG">
 </p>
