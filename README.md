@@ -19,6 +19,10 @@
 
 ![KakaoTalk_20210406_020527870](https://user-images.githubusercontent.com/80017979/113605372-83232c00-9681-11eb-8507-d5014ed99c07.png)
 
+<img width="382" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605688-f462df00-9681-11eb-8547-a7890ccfa957.png">
+
+<img width="211" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113605691-f4fb7580-9681-11eb-8959-06f7e1527e89.png">
+
 
 
 
