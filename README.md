@@ -21,7 +21,7 @@
 
 <p align="center">
   <img width="382" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605688-f462df00-9681-11eb-8547-a7890ccfa957.png">
-  <img width="211" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113605691-f4fb7580-9681-11eb-8959-06f7e1527e89.png"></p>
+  <img width="382" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113605691-f4fb7580-9681-11eb-8959-06f7e1527e89.png"></p>
 
 
 
