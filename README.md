@@ -15,6 +15,8 @@
         
 ### 레이아웃 디자인
 
+- 각자 만들어온 레이아웃을 같은 디자인으로 통일하여 제작할 것이다.
+
 #### 회원가입/로그인
 <p align="center">
   <img width="350" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
