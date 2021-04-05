@@ -17,8 +17,8 @@
 
 #### 회원가입/로그인
 <p align="center">
-  <img width="250" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
-  <img width="250" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113607840-af8c7780-9684-11eb-99a6-d6300447bb41.png">
+  <img width="300" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
+  <img width="300" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113607840-af8c7780-9684-11eb-99a6-d6300447bb41.png">
 </p>
 
 #### 게시판
