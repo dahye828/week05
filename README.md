@@ -17,7 +17,7 @@
 
 #### 회원가입/로그인
 <p align="center">
-  <img width="382" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
+  <img width="450" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
 </p>
 
 #### 게시판
