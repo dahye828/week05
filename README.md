@@ -11,7 +11,7 @@
   - 택시 요금 결제 관련 문제
         
         이전 계획서에서 언급했던 기능은 택시요금을 n분의 1로 분할해주는 계산기 기능이다.
-        이 기능의 목적은 택시 요금 결제를 위함이 아닌 목적지가 비슷한 사람들이 같이 택시를 탈 수 있도록 하는 목적을 두고 있다. 
+        이 기능의 목적은 택시 요금 결제가 아닌 목적지가 비슷한 사람들이 같이 택시를 탈 수 있도록 하는 목적을 두고 있다. 
         
 ### 레이아웃 디자인
 
@@ -20,7 +20,7 @@
 #### 회원가입/로그인
 <p align="center">
   <img width="350" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605057-1c9e0e00-9681-11eb-9cbf-70d0c1b8452b.png">
-  <img width="350" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113607840-af8c7780-9684-11eb-99a6-d6300447bb41.png">
+  <img width="350" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113608152-21fd5780-9685-11eb-99e5-aee0a5069d79.png">
 </p>
 
 #### 게시판
