@@ -20,12 +20,12 @@
 <p align="center">
   <img width="382" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605688-f462df00-9681-11eb-8547-a7890ccfa957.png">
   <img width="380" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113605691-f4fb7580-9681-11eb-8959-06f7e1527e89.png"></p>
-  
+  ---
  <p align="center">
   <img width="250" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113605901-43107900-9682-11eb-9d48-89bf1f081795.png">
   <img width="250" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113605907-4441a600-9682-11eb-85a7-809dbd4c2026.png">
   <img width="250" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113605913-44da3c80-9682-11eb-9f47-474fb77221d8.png"></p>
-
+---
  <p align="center">
   <img width="250" alt="2021-04-06_12 16 01" src="https://user-images.githubusercontent.com/80017979/113606165-984c8a80-9682-11eb-889e-6cd4a5c50a3a.png">
   <img width="250" alt="2021-04-06_12 16 22" src="https://user-images.githubusercontent.com/80017979/113606166-98e52100-9682-11eb-948f-ee97efd9323d.png">
